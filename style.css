@@ -1,0 +1,122 @@
+
+.inner {
+    padding: 20px, 100px;
+    margin: 30px auto;
+    max-width: 800px;
+    background-color: darkcyan;
+    border: solid;
+    border-right-width: 0;
+    border-left-width: 0;
+
+}
+
+.head {
+    position: relative;
+    left: 50px;
+    height: 150px;
+    width: 700px;
+    border-bottom: 2px solid;
+}
+.pic {
+    position: absolute;
+    width: 150px;
+    left: 5px;
+}
+
+.info {
+    /* margin-left: 200px; */
+}
+.name {
+    position: absolute;
+    top: -20px;
+    left: 250px;
+    height: 30px;
+    
+}
+
+.dt_info {
+    position: absolute;
+    top: 20px;
+    /* left: 260px; */
+    right: 100px;
+}
+
+.t_info{
+    float: left;
+    display: block;
+    /* width: 40%; */
+    text-align: left;
+    margin-left: 30px;
+    padding: 0;
+    list-style: none;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.body {
+    position: relative;
+    width: 700px;
+    height: 1051px;
+    left: 50px;
+}
+
+.i_body {
+    position: relative;
+    border-bottom: solid;
+    height: 80px;
+}
+
+.ii_body {
+    position: relative;
+    border-bottom: solid;
+    height: 809px;
+}
+
+.ia_body {
+    position: relative;
+    border-bottom: solid;
+    height: 156px;
+}
+.first {
+    position: relative;
+    width: 10%;
+    display: block;
+    float: left;
+}
+
+.f_content {
+    position: relative;
+    width: 80%;
+    float: right;
+}
+
+.ff_content {
+    position: relative;
+    height: 200px;
+    border-bottom: solid;
+}
+
+.a_content {
+    position: relative;
+    height: 50px;
+    border-bottom: solid;
+}
+
+.time {
+    display: inline-block;
+    position: absolute;
+    width: 30%;
+    top: 20px;
+
+}
+
+.content {
+    float: right;
+    position: absolute;
+    left: 30%;
+    /* top: 15px;  */
+    width: 65%;
+}
